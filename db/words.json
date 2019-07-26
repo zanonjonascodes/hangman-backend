@@ -1,0 +1,22 @@
+{
+  "words":
+  [
+    {
+      "wordname": "book",
+      "hint": "you can read stories from it"
+    },
+    {
+      "wordname": "computer",
+      "hint": "you are probably using one"
+    },
+    {
+      "wordname": "flower",
+      "hint": "you can find it in the garden"
+    },
+    {
+      "wordname": "jesus",
+      "hint": "the one I love the most"
+    }
+  ]
+
+}
