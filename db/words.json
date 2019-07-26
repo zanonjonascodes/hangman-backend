@@ -2,19 +2,19 @@
   "words":
   [
     {
-      "wordname": "book",
+      "word": "book",
       "hint": "you can read stories from it"
     },
     {
-      "wordname": "computer",
+      "word": "computer",
       "hint": "you are probably using one"
     },
     {
-      "wordname": "flower",
+      "word": "flower",
       "hint": "you can find it in the garden"
     },
     {
-      "wordname": "jesus",
+      "word": "jesus",
       "hint": "the one I love the most"
     }
   ]
