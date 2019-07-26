@@ -1,10 +1,10 @@
 import unittest
-import wordsDAO from dao/wordsDAO
+from dao import wordsDAO
+import sys
 
-
-class MyTestCase(unittest.TestCase):
-    def test_(self):
-        self.assertEqual(True, False)
 
 if __name__ == '__main__':
-    unittest.main()
+    print(wordsDAO.WordsDAO.get_all_words())
+
+
+
